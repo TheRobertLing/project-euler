@@ -6,7 +6,8 @@
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "new": "node script.js"
+    "new": "node script.js",
+    "answer": "node run.js"
   },
   "keywords": [],
   "author": "Robert Ling",
